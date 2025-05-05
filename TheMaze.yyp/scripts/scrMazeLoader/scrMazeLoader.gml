@@ -37,6 +37,12 @@ function get_maze_file_for_room(r){
 				global.current_dialogue_id = "default";
 				return "maps/maze_03.txt";
 			}
+			case rLevelFour: {
+				global.maze_height = 12;
+				global.maze_width = 24;
+				global.current_dialogue_id = "room four";
+				return "maps/maze_04.txt";
+			}
 			default:
 				return "maps/maze_01.txt";
 		}

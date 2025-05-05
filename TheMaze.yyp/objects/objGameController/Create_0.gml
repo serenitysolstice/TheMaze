@@ -19,6 +19,7 @@ global.room_dialogue_ids = ds_map_create();
 ds_map_add(global.room_dialogue_ids, "rLevelOne", "default");
 ds_map_add(global.room_dialogue_ids, "rLevelTwo", "room two");
 ds_map_add(global.room_dialogue_ids, "rLevelThree", "default");
+ds_map_add(global.room_dialogue_ids, "rLevelFour", "room four");
 
 
 if (!variable_global_exists("dialogue_flags")){

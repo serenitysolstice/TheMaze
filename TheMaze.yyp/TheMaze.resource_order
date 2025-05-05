@@ -39,6 +39,7 @@
     {"name":"objTJunction","order":6,"path":"objects/objTJunction/objTJunction.yy",},
     {"name":"objWalls","order":7,"path":"objects/objWalls/objWalls.yy",},
     {"name":"objWinScreen","order":16,"path":"objects/objWinScreen/objWinScreen.yy",},
+    {"name":"rLevelFour","order":3,"path":"rooms/rLevelFour/rLevelFour.yy",},
     {"name":"rLevelThree","order":2,"path":"rooms/rLevelThree/rLevelThree.yy",},
     {"name":"rLevelTwo","order":1,"path":"rooms/rLevelTwo/rLevelTwo.yy",},
     {"name":"scrLoadDialogueFile","order":1,"path":"scripts/scrLoadDialogueFile/scrLoadDialogueFile.yy",},

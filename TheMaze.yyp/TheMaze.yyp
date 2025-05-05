@@ -37,6 +37,7 @@
     {"$GMIncludedFile":"","%Name":"maze_01.txt","CopyToMask":-1,"filePath":"datafiles/maps","name":"maze_01.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"maze_02.txt","CopyToMask":-1,"filePath":"datafiles/maps","name":"maze_02.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"maze_03.txt","CopyToMask":-1,"filePath":"datafiles/maps","name":"maze_03.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"maze_04.txt","CopyToMask":-1,"filePath":"datafiles/maps","name":"maze_04.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -65,6 +66,7 @@
     {"id":{"name":"objTJunction","path":"objects/objTJunction/objTJunction.yy",},},
     {"id":{"name":"objWalls","path":"objects/objWalls/objWalls.yy",},},
     {"id":{"name":"objWinScreen","path":"objects/objWinScreen/objWinScreen.yy",},},
+    {"id":{"name":"rLevelFour","path":"rooms/rLevelFour/rLevelFour.yy",},},
     {"id":{"name":"rLevelOne","path":"rooms/rLevelOne/rLevelOne.yy",},},
     {"id":{"name":"rLevelThree","path":"rooms/rLevelThree/rLevelThree.yy",},},
     {"id":{"name":"rLevelTwo","path":"rooms/rLevelTwo/rLevelTwo.yy",},},
@@ -100,6 +102,7 @@
     {"roomId":{"name":"rLevelOne","path":"rooms/rLevelOne/rLevelOne.yy",},},
     {"roomId":{"name":"rLevelTwo","path":"rooms/rLevelTwo/rLevelTwo.yy",},},
     {"roomId":{"name":"rLevelThree","path":"rooms/rLevelThree/rLevelThree.yy",},},
+    {"roomId":{"name":"rLevelFour","path":"rooms/rLevelFour/rLevelFour.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
