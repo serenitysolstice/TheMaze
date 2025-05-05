@@ -1,0 +1,20 @@
+#default
+ 
+
+#room two
+What are you doing here?
+You promised me you'd stop this.
+
+#touch key
+This is a key. It probably opens a door.
+
+#room four
+How far did you get last time?
+Or does this still feel like the first?
+
+# room ten
+How much time have you spent here?
+Do you remember?
+
+# room eleven
+What do you hope you achieve?
